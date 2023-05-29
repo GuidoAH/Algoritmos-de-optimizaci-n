@@ -1,2 +1,2 @@
-# Algoritmos-de-optimizaci-n
+# Optimization algorithms
 Asignatura: Algoritmos de optimización
